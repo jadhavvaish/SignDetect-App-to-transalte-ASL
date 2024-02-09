@@ -49,6 +49,7 @@ The Sign Detect Translation App is designed to recognize and translate hand gest
   
 2. A Survey of Sign Language Recognition Systems(https://irojournals.com/iroiip/article/view/4/4/3)
 -Research Paper Published in IRO Journals, Journal of Innovative Image Processing.
--Published on 15/12/2022
+-Published on 15/12/2022.
+
 
 
